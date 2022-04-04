@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 scaffold-eth | 🏰 BuidlGuidl "https://rinkeby.etherscan.io/address/0x4006Ea593fcF756c1C0a314ec58EEefd68f184E0"
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
